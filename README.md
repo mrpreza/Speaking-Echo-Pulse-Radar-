@@ -1,6 +1,6 @@
 
 
-# Spraking Echo-Pulse radar
+# Speaking Echo-Pulse radar
 
 This repository showcases the **Ultrasonic Radar Project**, which involves creating a radar system using ultrasonic sensors, a servo motor, and an Arduino-based microcontroller. The project integrates a **DFPlayer** module for sound output and a **seven-segment display** to provide real-time status updates.
 
