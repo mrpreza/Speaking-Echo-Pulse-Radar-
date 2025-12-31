@@ -58,4 +58,6 @@ Lincese:
 ## License
 
 This project is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License**. You are free to share the work, but you cannot modify it or create derivatives. Proper attribution must be given to the original author.
+![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY%20ND%204.0-lightgrey)
+
 
