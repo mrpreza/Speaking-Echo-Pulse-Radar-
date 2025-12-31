@@ -23,8 +23,7 @@ The goal of this project is to design an ultrasonic radar that can detect object
 * **ledpause=-9-6.txt**: A configuration or code file related to LED handling in the project.
 * **main code**: The main Arduino code controlling the radar system.
 * **servo works.txt**: Instructions or code related to the servo motor functionality.
-* **seven segment**: Code or instructions for controlling the seven-segment display.
-* **فرم 1-5 مشاله یابی.pdf**: Troubleshooting form for addressing issues in the system.
+* **seven segment**: Code or instructions for controlling the seven-segment display..
 
 ## How to Set Up:
 
