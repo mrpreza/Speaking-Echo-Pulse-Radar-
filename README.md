@@ -52,3 +52,10 @@ This project is based on basic Arduino and sensor integration techniques, with s
 
 
 Feel free to customize the instructions based on the specifics of your setup and components. If you have a specific section of the code or additional setup details you'd like to highlight, I can help expand it further!
+
+
+Lincese:
+## License
+
+This project is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License**. You are free to share the work, but you cannot modify it or create derivatives. Proper attribution must be given to the original author.
+
